@@ -1,3 +1,4 @@
-# Recipes Repository Sample
+recipes
+=======
 
-This is some sample text
+A collection of project files in markdown of our favorite recipes
