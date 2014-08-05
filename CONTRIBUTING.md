@@ -1,3 +1,5 @@
+# Contributing Guidelines
+
 * Create a fork
 * Create a branch
 * Make your changes
